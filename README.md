@@ -21,7 +21,7 @@ I'm currently:
 <hr>
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,mongodb,mysql,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
 
 ### :fire: My Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
