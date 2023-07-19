@@ -19,3 +19,6 @@ I'm currently:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurtatiLND&theme=dark&show_icons=true&hide_border=true"/>
 </a>
 <br>
+
+###  Most frequently used languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurtatiLND&layout=compact)
