@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/tatiana-gurova-junsofteng/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/tatiana_gurova_j?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-success?style=for-the-badge&logo=hacker_rank&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <br>
 I hold a bachelor's degree in Computer Science and possess significant experience in project management and analysis. Recently, I successfully completed the <a href='https://codefirstgirls.com/courses/cfgdegree/#cfgdegreespec'>CFG Degree Full Stack course</a>, further enhancing my skill set. I am currently actively seeking a new job with a focus on front-end development opportunities. On this page, you will find a showcase of my coding accomplishments and a portfolio of projects I have worked on, both independently and collaboratively with other developers.
