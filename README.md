@@ -11,7 +11,7 @@ I hold a bachelor's degree in Computer Science and possess significant experienc
 
 I'm currently:
 
-- 💻 Working on one project on Blockchain
+- 💻 Working on a project on Blockchain
 - 📝 Learning deeply React.js and practising JS
 - :briefcase: Applying for jobs
 
