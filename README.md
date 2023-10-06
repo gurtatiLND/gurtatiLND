@@ -11,14 +11,16 @@ I hold a bachelor's degree in Computer Science and possess significant experienc
 
 I'm currently:
 
-- 💻 Working on a project on Blockchain
+- Graduate of the CFG Degree Full Stack steam
+- Recently completed a DevOps training program
 - 📝 Learning deeply React.js and practising JS
+- Engaged in a freelance project at the moment
 - :briefcase: Applying for jobs
 
 <hr>
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,docker,k8s,aws&theme=dark)](https://skillicons.dev)
 
 ### :fire: My Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
