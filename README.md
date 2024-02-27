@@ -13,7 +13,7 @@ I'm currently:
 
 - Graduate of the CFG Degree Full Stack steam
 - Recently completed a DevOps training program
-- 📝 Learning deeply React.js and practising JS
+- 📝 Learning deeply JS, TypeScript, React.js, Next.js
 - Engaged in a freelance project at that moment
 - :briefcase: Applying for jobs
 
