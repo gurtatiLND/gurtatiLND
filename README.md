@@ -7,7 +7,7 @@
   </a>
 </div>
 <br>
-I hold a bachelor's degree in Computer Science and possess significant experience in project management and analysis. I am currently actively seeking a new job with a focus on front-end development opportunities. On this page, you will find a showcase of my coding accomplishments and a portfolio of projects I have worked on, both independently and collaboratively with other developers.
+I hold a bachelor's degree in Computer Science and possess significant experience in project management and analysis. I am currently actively seeking a new job with a focus on full-stack development opportunities. On this page, you will find a showcase of my coding accomplishments and a portfolio of projects I have worked on, both independently and collaboratively with other developers.
 
 I'm currently:
 
