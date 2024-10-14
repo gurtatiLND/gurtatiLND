@@ -12,9 +12,9 @@ I hold a bachelor's degree in Computer Science and possess significant experienc
 I'm currently:
 
 - Graduate of the CFG Degree Full Stack steam
-- Recently completed a DevOps training program
-- 📝 Learning deeply JS, TypeScript, React.js, Next.js
-- Engaged in a freelance project at that moment
+- Currently improving my skills at Founders and Coders
+- 📝 Learning deeply JS, TypeScript, React.js, Node.js, Express.js
+- Engaged in a very interesting full stack projects
 - :briefcase: Applying for jobs
 
 <hr>
