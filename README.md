@@ -13,7 +13,7 @@ I'm currently:
 
 - Graduated of the CFG Degree Full Stack steam
 - Currently improving my skills at Founders and Coders
-- 📝 Learning deeply JS, TypeScript, React.js, Node.js, Express.js
+- 📝 Learning deeply JS, TypeScript, React.js, NEXT.js, Node.js
 - Engaged in a very interesting full-stack projects
 - :briefcase: Applying for jobs
 
